@@ -1,8 +1,9 @@
-<h1 align="center">Sushant Kumar Kushwaha</h1>
-
-<h3 align="center">
-Aspiring Software Engineer • Python Developer • Backend & DSA • Problem Solver
-</h3>
+<h1 align="center">✨  Sushant Kumar Kushwaha  ✨</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Python+Developer;Backend+%26+DSA+Enthusiast;Competitive+Programmer" /> </div>
+<!-- <h3 align="center">
+Aspiring Software Engineer • Python Developer • Backend Development • DSA • Problem Solver
+</h3> -->
 
 <p align="center">
 I enjoy building practical software projects, exploring backend development,
