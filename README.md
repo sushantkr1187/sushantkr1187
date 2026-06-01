@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sushant Kumar Kushwaha</h1>
+<h1 align="center">Sushant Kumar Kushwaha</h1>
 
 <h3 align="center">
 Aspiring Software Engineer • Python Developer • Backend & DSA • Problem Solver
