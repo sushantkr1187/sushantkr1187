@@ -61,7 +61,7 @@ and strengthening my problem-solving skills through competitive programming.
 ## 📌 Featured Projects
 
 ### 🔗 URL Shortener
-A full-stack web application built using Flask and SQLite.
+A full-stack web application built using Flask and PostgreSQL.
 
 **Highlights**
 - URL shortening with unique short codes
