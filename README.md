@@ -28,8 +28,8 @@
 
 # 👨‍💻 About Me
 
-🎓 **B.Tech in Computer Science & Engineering**  
-Government College of Engineering & Textile Technology, Berhampore (MAKAUT)  
+🎓 **B.Tech in Information Technology**  
+Government College of Engineering & Textile Technology, Serampore (MAKAUT)  
 **Batch:** 2026 – 2030
 
 I'm a Computer Science undergraduate passionate about backend engineering, distributed systems, cloud infrastructure, and open-source software. I enjoy designing clean architectures, building reliable applications, and solving engineering problems through code.
@@ -42,8 +42,6 @@ Currently, I'm focused on strengthening my foundations in Data Structures & Algo
 ---
 
 # 🛠️ Tech Stack
-
-## ⚙️ Tech Stack
 
 ### Languages
 
